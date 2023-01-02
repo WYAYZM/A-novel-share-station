@@ -1,2 +1,2 @@
-# A-novel-share-station
+# 本存储库说明
 本存储库用于分享小说
